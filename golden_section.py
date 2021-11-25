@@ -6,10 +6,12 @@ import time
 
 def func_fx(x):
     fx = (4*x**3) +(x**2) -(7*x)+14
-    #fx = 0.65-(0.75/(1+x)**2)-(0.65*x*(np.arctan(np.float64(1/np.float64(x)))))
-    #fx=np.sin(x)
-    #fx = -((1/((x-1) ** 2))*(np.log(x) - (2*(x - 1)/(x + 1))))
-    #fx = np.exp(-x) - np.cos(x)
+    '''
+    fx = 0.65-(0.75/(1+x)**2)-(0.65*x*(np.arctan(np.float64(1/np.float64(x)))))
+    fx=np.sin(x)
+    fx = -((1/((x-1) ** 2))*(np.log(x) - (2*(x - 1)/(x + 1))))
+    fx = np.exp(-x) - np.cos(x)
+    '''
     return fx
 
 
