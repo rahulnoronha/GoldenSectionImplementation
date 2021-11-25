@@ -3,8 +3,20 @@ This is an implementation of the Golden Section method for various functions wit
 
 Solved for the problem minimize f(x) = 4x^3+x^2-7x+14 in the range [0,1] with error rate et=0.15
 
-![Image 1]('./Images/image1.png')
-![Image 2]('./Images/image2.png')
-![Image 3]('./Images/image3.png')
-![Image 4]('./Images/image4.png')
-![Image 5]('./Images/image5.png')
+![Image 1](Images/image1.png)
+<br/>
+<hr/>
+
+![Image 2](Images/image2.png)
+<br/>
+<hr/>
+
+![Image 3](Images/image3.png)
+<br/>
+<hr/>
+
+![Image 4](Images/image4.png)
+<br/>
+<hr/>
+
+![Image 5](Images/image5.png)
