@@ -136,4 +136,5 @@ def golden_search(xl,xu,mode,et):
 #EXECUTING GOLDEN SEARCH FUNCTION FOR THE FUNCTION 4x^3+x^2-7x+14 in RANGE 0 to 1
 # print("FINDING MINIMA OF THE FUNCTION IN THE GIVEN RANGE")
 func_range = [0,1]
-golden_search(func_range[0],func_range[1],'min',0.15)
+error_rate = 0.15
+golden_search(func_range[0],func_range[1],'min',error_rate)
